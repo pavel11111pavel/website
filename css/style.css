@@ -1,0 +1,94 @@
+body {    
+    background-color: #08161e;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30px;
+}
+
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+
+.title_photo {
+    text-align: center;
+}
+
+.photo {
+    background: url(../image/photo1.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 380px;
+    height: 550px;
+}
+
+.nav_logo {
+    background: url(../image/logo.png) no-repeat center center;
+    background-size: 100%;
+    width: 50px;
+    height: 50px;
+}
+
+.button_js {
+    text-align: center;
+}
+
+#myButton {
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: brown;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#demo img {
+    margin-top: 20px;
+    width: 25%;
+}
+
+.index {
+    text-align: center;
+}
+
+.btn__reg {
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: brown;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.hello {
+    text-align: center;
+}
+
+.btn_red {
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: brown;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.post {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#zagolovok {
+    width: 30%;
+}
